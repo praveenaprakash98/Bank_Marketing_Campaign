@@ -26,3 +26,4 @@ poutcome:outcome of previous marketing campaigns.
 y:final campaign outcome. i.e.whether the customer accepted the current offer or not
 
 Ref:https://github.com/Tannu-29/Bank-Marketing-Campaign/blob/d311ebac9b37eed2e2f35cf6765f493a47043454/Bank%2BMarketing%2BCampaign_EDA-blank%2Bnotebook%20(1).ipynb
+Dataset From:Kaggle
